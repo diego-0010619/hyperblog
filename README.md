@@ -13,4 +13,10 @@ Este es el link de mi hoja de vida: https://www.linkedin.com/in/diego-alexander-
 
 No tomes en serio este readme es solo una practica para aprender.
 
+<<<<<<< HEAD
 *Creado por el increible Platzi Aprendedor Diego.
+=======
+*Creado por el increible Platzi Aprendedor Diego.
+
+Incluye ejemplos
+>>>>>>> readme-mejorado
