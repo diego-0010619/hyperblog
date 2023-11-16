@@ -12,3 +12,5 @@ Puedes ir al repo y ver lo que tenemos: https://github.com/diego-0010619/hyperbl
 Este es el link de mi hoja de vida: https://www.linkedin.com/in/diego-alexander-s%C3%A1nchez-henao-2733401b5/
 
 No tomes en serio este readme es solo una practica para aprender.
+
+*Creado por el increible Platzi Aprendedor Diego.
